@@ -37,7 +37,7 @@ Estou em uma jornada contínua de aprendizado para me tornar um desenvolvedor Fu
 
 ### 📬 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-heuser-49055b306)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-heuser)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianoheuser@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Meu_Portfólio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://github.com/cristi-pgr?tab=repositories)
 
